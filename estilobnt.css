@@ -1,0 +1,47 @@
+body{
+  background:#2E3532;
+  color: #D2D4C8;
+  text-align: center;
+
+}
+
+header{
+  font-family: 'Raleway', sans-serif;
+}
+
+
+section{
+  background: #E0E2DB;
+  color: #2E3532;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px #00000042;
+}
+
+div{
+  padding: 10px;
+  
+}
+
+nav{
+  background-color: #8B2635; 
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 12px;
+}
+
+nav a{
+  color: #D2D4C8;
+  text-decoration: none
+  
+}
+
+footer{
+  font-style: italic;
+}
+
+
+
